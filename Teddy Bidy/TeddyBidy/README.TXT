@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-this is a little game with a little ball and a little teddy
+this is a little game with a little teddy
 ------------------------------------------------------------------------
 
 PROJECT TITLE:Teddy Bidy
